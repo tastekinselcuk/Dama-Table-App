@@ -1,0 +1,20 @@
+C:\Users\taste\source\repos\DamaUygulaması\DamaUygulaması\obj\Debug\DamaUygulaması.csprojAssemblyReference.cache
+C:\Users\taste\source\repos\DamaUygulaması\DamaUygulaması\obj\Debug\DamaUygulaması.Form1.resources
+C:\Users\taste\source\repos\DamaUygulaması\DamaUygulaması\obj\Debug\DamaUygulaması.Properties.Resources.resources
+C:\Users\taste\source\repos\DamaUygulaması\DamaUygulaması\obj\Debug\DamaUygulaması.csproj.GenerateResource.cache
+C:\Users\taste\source\repos\DamaUygulaması\DamaUygulaması\obj\Debug\DamaUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\taste\source\repos\DamaUygulaması\DamaUygulaması\bin\Debug\DamaUygulaması.exe.config
+C:\Users\taste\source\repos\DamaUygulaması\DamaUygulaması\bin\Debug\DamaUygulaması.exe
+C:\Users\taste\source\repos\DamaUygulaması\DamaUygulaması\bin\Debug\DamaUygulaması.pdb
+C:\Users\taste\source\repos\DamaUygulaması\DamaUygulaması\obj\Debug\DamaUygulaması.exe
+C:\Users\taste\source\repos\DamaUygulaması\DamaUygulaması\obj\Debug\DamaUygulaması.pdb
+C:\Users\taste\Desktop\repos\C# Uygulamaları\DamaUygulaması\DamaUygulaması\obj\Debug\DamaUygulaması.csprojAssemblyReference.cache
+C:\Users\taste\Desktop\repos\C# Uygulamaları\DamaUygulaması\DamaUygulaması\obj\Debug\DamaUygulaması.Form1.resources
+C:\Users\taste\Desktop\repos\C# Uygulamaları\DamaUygulaması\DamaUygulaması\obj\Debug\DamaUygulaması.Properties.Resources.resources
+C:\Users\taste\Desktop\repos\C# Uygulamaları\DamaUygulaması\DamaUygulaması\obj\Debug\DamaUygulaması.csproj.GenerateResource.cache
+C:\Users\taste\Desktop\repos\C# Uygulamaları\DamaUygulaması\DamaUygulaması\obj\Debug\DamaUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\taste\Desktop\repos\C# Uygulamaları\DamaUygulaması\DamaUygulaması\obj\Debug\DamaUygulaması.exe
+C:\Users\taste\Desktop\repos\C# Uygulamaları\DamaUygulaması\DamaUygulaması\obj\Debug\DamaUygulaması.pdb
+C:\Users\taste\Desktop\repos\C# Uygulamaları\DamaUygulaması\DamaUygulaması\bin\Debug\DamaUygulaması.exe.config
+C:\Users\taste\Desktop\repos\C# Uygulamaları\DamaUygulaması\DamaUygulaması\bin\Debug\DamaUygulaması.exe
+C:\Users\taste\Desktop\repos\C# Uygulamaları\DamaUygulaması\DamaUygulaması\bin\Debug\DamaUygulaması.pdb
